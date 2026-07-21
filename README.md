@@ -19,4 +19,4 @@ An exploratory data analysis (EDA) notebook is available on Kaggle:
 
 ### Dataset Source
 BCI Competition IV – Dataset 2a:
-https://www.kaggle.com/datasets/thngdngvn/bci-competition-iv-data-sets-2a
+[https://www.kaggle.com/datasets/thngdngvn/bci-competition-iv-data-sets-2a](https://www.bbci.de/competition/iv/)
