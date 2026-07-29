@@ -132,7 +132,8 @@ Extract the dataset into the appropriate data directory used by the notebooks.
 
 Run the notebooks in the following order:
 
-### Task 1
+### Task 1 : If the file appears blank or does not open correctly, you can access the complete notebook here:
+- https://www.kaggle.com/code/sababahoquesaba/eeg-preprocessing-pipeline
 - `code/task1/Group03_BCI_IV_2a_task1_eda.ipynb`
 
 ### Task 2
