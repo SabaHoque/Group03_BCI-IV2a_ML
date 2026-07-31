@@ -141,8 +141,8 @@ Run the notebooks in the following order:
 - `code/task2/Group03_BCI_IV_2a_task2_proposed_model.ipynb`(https://www.kaggle.com/code/sababahoquesaba/kaelvornet)
 
 ### Task 3
-- `code/task3/Group03_BCI_IV_2a_task3_improvement_ablation.ipynb`
-- `code/task3/Group03_BCI_IV_2a_task3_explainability.ipynb`
+- `code/task3/Group03_BCI_IV_2a_task3_improvement_ablation.ipynb`(https://www.kaggle.com/code/sababahoquesaba/kaelvornet-improvement-ablation)
+- `code/task3/Group03_BCI_IV_2a_task3_explainability.ipynb`(https://www.kaggle.com/code/sababahoquesaba/kaelvornet-explainability)
 
 ---
 
