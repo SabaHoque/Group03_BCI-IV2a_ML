@@ -137,8 +137,8 @@ Run the notebooks in the following order:
 - `code/task1/Group03_BCI_IV_2a_task1_eda.ipynb`
 
 ### Task 2
-- `code/task2/Group03_BCI_IV_2a_task2_baselines.ipynb`
-- `code/task2/Group03_BCI_IV_2a_task2_proposed_model.ipynb`
+- `code/task2/Group03_BCI_IV_2a_task2_baselines.ipynb`(https://www.kaggle.com/code/sababahoquesaba/eeg-baseline-model-training)
+- `code/task2/Group03_BCI_IV_2a_task2_proposed_model.ipynb`(https://www.kaggle.com/code/sababahoquesaba/kaelvornet)
 
 ### Task 3
 - `code/task3/Group03_BCI_IV_2a_task3_improvement_ablation.ipynb`
